@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukescottpChar
 - 👀 I’m interested in ... Cyber Security and Developing AI
-- 🌱 I’m currently learning ... Pythong
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Future apps
 - 📫 How to reach me ... Just mention me.
 
